@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <!-- 单个天的textsize -->
+        <attr name="textSize" format="dimension" />
+        <!-- 单个天的高度-->
+        <attr name="itemHeight" format="dimension" />
+        <!-- 有全屏和 日历年列表 -->
+        <attr name="full" format="boolean" />
+    </declare-styleable>
+</resources>
